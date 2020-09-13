@@ -351,3 +351,5 @@
 @@||svc90.main.px.t-online.de^$important
 # Earthquake App
 @@||fe-lb.tranquilli.org^$important
+# Google ad services
+@@||googleadservices.com^$important
