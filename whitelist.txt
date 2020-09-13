@@ -353,3 +353,4 @@
 @@||fe-lb.tranquilli.org^$important
 # Google ad services
 @@||googleadservices.com^$important
+@@||www.googleadservices.com^$important
