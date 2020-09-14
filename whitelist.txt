@@ -354,3 +354,6 @@
 # Google ad services
 @@||googleadservices.com^$important
 @@||www.googleadservices.com^$important
+# Ozon
+@@||ozon.onelink.me^$important
+@@||onelink.me^$important
