@@ -357,3 +357,6 @@
 # Ozon
 @@||ozon.onelink.me^$important
 @@||onelink.me^$important
+# Aliexpress
+@@||click.aliexpress.com^$important
+@@||s.click.aliexpress.com^$important
