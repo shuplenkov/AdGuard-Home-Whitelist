@@ -361,5 +361,5 @@
 @@||click.aliexpress.com^$important
 @@||s.click.aliexpress.com^$important
 # Sberbank
-@@||rutarget.ru^$important
-@@||cdn.rutarget.ru^$important
+# @@||rutarget.ru^$important
+# @@||cdn.rutarget.ru^$important
