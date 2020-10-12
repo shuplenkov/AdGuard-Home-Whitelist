@@ -367,3 +367,4 @@
 @@||api-na.geetest.com^$important
 @@||static.geetest.com^$important
 @@||clck.ru^$important
+@@||ad.admitad.com^$important
