@@ -363,6 +363,7 @@
 # Sberbank
 # @@||rutarget.ru^$important
 # @@||cdn.rutarget.ru^$important
-# Capcha
+# Others
 @@||api-na.geetest.com^$important
 @@||static.geetest.com^$important
+@@||clck.ru^$important
