@@ -368,3 +368,4 @@
 @@||static.geetest.com^$important
 @@||clck.ru^$important
 @@||ad.admitad.com^$important
+@@||admitad.com^$important
