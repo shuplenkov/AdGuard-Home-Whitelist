@@ -380,3 +380,4 @@
 @@||ad.admitad.com^$important
 @@||admitad.com^$important
 @@||rs.mail.ru^$important
+@@||sl.go.mysku.ru^$important
